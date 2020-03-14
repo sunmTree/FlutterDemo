@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutterapp/layout_demo.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(LayoutApp());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
